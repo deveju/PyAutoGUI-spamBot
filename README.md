@@ -1,6 +1,5 @@
-# PyAutoGUI-spamBot
-**Create a python automatic spam bot!**
-### Installing PyAutoGUI into Visual Studio Code:
+## **Create a python automatic spam bot!**
+### ▣ Installing PyAutoGUI into Visual Studio Code:
 - Open the Visual Studio Code terminal and type:
 ```bash
 pip install pyautogui
